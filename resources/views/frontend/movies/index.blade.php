@@ -9,28 +9,28 @@
         <div class="col-md-3 my-3">
             <a href="#">
                 <div class="card" style="width: 100%;">
-                    <img src="{{ asset('img/film-one.webp') }}" class="card-img-top" alt="...">
+                    <img src="{{ secure_asset('img/film-one.webp') }}" class="card-img-top" alt="...">
                 </div>
             </a>
         </div>
         <div class="col-md-3 my-3">
             <a href="#">
                 <div class="card" style="width: 100%;">
-                    <img src="{{ asset('img/film-two.webp') }}" class="card-img-top" alt="...">
+                    <img src="{{ secure_asset('img/film-two.webp') }}" class="card-img-top" alt="...">
                 </div>
             </a>
         </div>
         <div class="col-md-3 my-3">
             <a href="#">
                 <div class="card" style="width: 100%;">
-                    <img src="{{ asset('img/film-three.webp') }}" class="card-img-top" alt="...">
+                    <img src="{{ secure_asset('img/film-three.webp') }}" class="card-img-top" alt="...">
                 </div>
             </a>
         </div>
         <div class="col-md-3 my-3">
             <a href="#">
                 <div class="card" style="width: 100%;">
-                    <img src="{{ asset('img/film-four.webp') }}" class="card-img-top" alt="...">
+                    <img src="{{ secure_asset('img/film-four.webp') }}" class="card-img-top" alt="...">
                 </div>
             </a>
         </div>
@@ -42,28 +42,28 @@
         <div class="col-md-3 my-3">
             <a href="#">
                 <div class="card" style="width: 100%;">
-                    <img src="{{ asset('img/film-one.webp') }}" class="card-img-top" alt="...">
+                    <img src="{{ secure_asset('img/film-one.webp') }}" class="card-img-top" alt="...">
                 </div>
             </a>
         </div>
         <div class="col-md-3 my-3">
             <a href="#">
                 <div class="card" style="width: 100%;">
-                    <img src="{{ asset('img/film-two.webp') }}" class="card-img-top" alt="...">
+                    <img src="{{ secure_asset('img/film-two.webp') }}" class="card-img-top" alt="...">
                 </div>
             </a>
         </div>
         <div class="col-md-3 my-3">
             <a href="#">
                 <div class="card" style="width: 100%;">
-                    <img src="{{ asset('img/film-three.webp') }}" class="card-img-top" alt="...">
+                    <img src="{{ secure_asset('img/film-three.webp') }}" class="card-img-top" alt="...">
                 </div>
             </a>
         </div>
         <div class="col-md-3 my-3">
             <a href="#">
                 <div class="card" style="width: 100%;">
-                    <img src="{{ asset('img/film-four.webp') }}" class="card-img-top" alt="...">
+                    <img src="{{ secure_asset('img/film-four.webp') }}" class="card-img-top" alt="...">
                 </div>
             </a>
         </div>

@@ -1,12 +1,12 @@
 @extends('layouts.backend')
 
 @push('styles')
-    <link href="{{ asset('sb-admin/vendor/datatables/dataTables.bootstrap4.min.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('sb-admin/vendor/datatables/dataTables.bootstrap4.min.css') }}" rel="stylesheet">
 @endpush
 
 @push('scripts')
-    <script src="{{ asset('sb-admin/vendor/datatables/jquery.dataTables.min.js') }}"></script>
-    <script src="{{ asset('sb-admin/vendor/datatables/dataTables.bootstrap4.min.js') }}"></script>
+    <script src="{{ secure_asset('sb-admin/vendor/datatables/jquery.dataTables.min.js') }}"></script>
+    <script src="{{ secure_asset('sb-admin/vendor/datatables/dataTables.bootstrap4.min.js') }}"></script>
     <script>
         $(document).ready(function() {
             $('#datatables').DataTable();

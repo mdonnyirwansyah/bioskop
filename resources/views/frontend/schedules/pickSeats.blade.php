@@ -13,7 +13,7 @@
     <div class="card">
         <div class="row no-gutters">
         <div class="col-md-4">
-            <img src="{{ asset('img/film-one.webp') }}" style="width: 85%" alt="...">
+            <img src="{{ secure_asset('img/film-one.webp') }}" style="width: 85%" alt="...">
         </div>
         <div class="col-md-8">
             <div class="card-body">
